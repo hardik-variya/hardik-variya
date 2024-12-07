@@ -23,21 +23,21 @@ I'm a **Laravel Developer** passionate about creating innovative and user-friend
 
 ## 📂 Featured Projects  
 
-[![Google 2FA Authentication Example](https://github-readme-stats.vercel.app/api/pin/?username=hardik-variya&repo=reverb-chat&theme=dark)](https://github.com/hardik-variya/reverb-chat)  
-
-
-[![Google 2FA Authentication Example](https://github-readme-stats.vercel.app/api/pin/?username=hardik-variya&repo=google2fa-laravel&theme=dark)](https://github.com/hardik-variya/google2fa-laravel)  
-
-[![Impersonate Demo](https://github-readme-stats.vercel.app/api/pin/?username=hardik-variya&repo=laravel-impersonate&theme=dark)](https://github.com/hardik-variya/laravel-impersonate)  
-
-
-
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/hardik-variya/reverb-chat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-variya&repo=reverb-chat&theme=dark" alt="Reverb Chat" />
+  </a>
+  <a href="https://github.com/hardik-variya/google2fa-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-variya&repo=google2fa-laravel&theme=dark" alt="Google 2FA Authentication Example" />
+  </a>
+  <a href="https://github.com/hardik-variya/laravel-impersonate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardik-variya&repo=laravel-impersonate&theme=dark" alt="Impersonate Demo" />
+  </a>
+</div>
+ 
 ## 📈 GitHub Stats & Languages  
 <!-- ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik-variya&show_icons=true&theme=radical)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-variya&layout=compact&theme=radical)  
 
 ## 
 Feel free to explore my repositories and contribute to exciting projects! 🚀  
-
